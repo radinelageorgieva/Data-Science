@@ -14,7 +14,7 @@ Data sources
 The study utilizes open-source data from:
 1. NYC property sales dataset - nyc-rolling-sales.csv (https://www.kaggle.com/datasets/new-york-city/nyc-property-sales)
 2. US Census tract dataset - acs2017_census_tract_data.csv (https://www.kaggle.com/datasets/muonneutrino/us-census-demographic-data)
-3. Geographic correspondence table - geocorr2022_2611807397.csv : https://mcdc.missouri.edu/cgi-bin/broker?_PROGRAM=apps.geocorr2022.sas&_SERVICE=MCDC_long&_debug=0&state=Ny36&g1_=zcta&g2_=tract&wtvar=hus20&nozerob=1&fileout=1&filefmt=csv&lstfmt=html&title=&afacts2=on&xycentr=1&counties=&metros=&places=&oropt=&latitude=&longitude=&distance=&kiloms=0&locname=
+3. Geographic correspondence table - geocorr2022_2610506628.csv : https://mcdc.missouri.edu/cgi-bin/broker?_PROGRAM=apps.geocorr2022.sas&_SERVICE=MCDC_long&_debug=0&state=Ny36&g1_=zcta&g2_=tract&wtvar=hus20&nozerob=1&fileout=1&filefmt=csv&lstfmt=html&title=&afacts2=on&xycentr=1&counties=&metros=&places=&oropt=&latitude=&longitude=&distance=&kiloms=0&locname=
 
 Analitical framework:
 1. Data Cleaning & integration: Addressed significant data gaps (MNAR) in Manhattan's square footage records and filtered the dataset at a $5M threshold to focus on the residential middle market.
